@@ -1,0 +1,33 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204bdcedd97a1868b0ed5e6a6339b41ec705712a035bd4e2205c2e9059f79fe0170a",
+      "host": "keybase.io",
+      "kid": "01204bdcedd97a1868b0ed5e6a6339b41ec705712a035bd4e2205c2e9059f79fe0170a",
+      "uid": "4dc7ceb18b85275c34d70725bc5eff19",
+      "username": "avery_eero"
+    },
+    "merkle_root": {
+      "ctime": 1580173110,
+      "hash": "4abed6fc95ec0c676bda6a13d2f57b65f88ec9b3f37a59c45fa0541743f2b710cf43129da9783eed21b450325892630b1aadb0daa94938c06b8abd8da7438c67",
+      "hash_meta": "09a07df0967f6ec2240234ec05f998bb835cdf3aa2930adeb334ee02c27c1bbe",
+      "seqno": 14387956
+    },
+    "service": {
+      "entropy": "g59LP3cYRaAfwq6ClGuXy/+X",
+      "name": "github",
+      "username": "avery-eero"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1580173119,
+  "expire_in": 504576000,
+  "prev": "f87bceb606e8107ebbe9886613747b2882214e1b92b9e4a85129190273f62c74",
+  "seqno": 4,
+  "tag": "signature"
+}
